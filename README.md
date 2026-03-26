@@ -22,7 +22,7 @@ What it aims to include:
 - metrics/health checks
 - tests + CI
 
-Repo: **(link coming soon)**
+Repo: [rajatarora/java-microservice-harness](https://github.com/rajatarora/java-microservice-harness)
 
 ## Open to work
 I’m open to **backend IC roles** (Java/Spring Boot, AWS)—ideally at a **mid-sized product company** with clear ownership and pragmatic engineering.
